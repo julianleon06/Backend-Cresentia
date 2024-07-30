@@ -1,0 +1,16 @@
+{
+  "name": "backend-creesentia",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch ./src/index.js"
+  },
+  "author": "Julian Leon, Natalia Zamudio, Carlos Triana, Andres Romero",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1"
+  }
+}
